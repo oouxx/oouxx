@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm oouxx, 小镇做题失败家。热爱编程，炒股.
+I'm oouxx, 小镇做题失败家。热爱编程，炒股。
 
 ## Languages and Tools
 
