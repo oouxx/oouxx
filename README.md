@@ -4,7 +4,7 @@ I'm oouxx, 小镇做题失败家。热爱编程，炒股.
 
 ## Languages and Tools
 
-![](https://skillicons.dev/icons?i=bash,docker,go,rust,java,typescript,git,github,githubactions,linux,md,mysql,py,vscode,vim&perline=10&theme=light)
+![](https://skillicons.dev/icons?i=bash,docker,go,rust,java,typescript,py,git,github,githubactions,linux,md,mysql,vscode,vim&perline=10&theme=light)
 
 
 ---
